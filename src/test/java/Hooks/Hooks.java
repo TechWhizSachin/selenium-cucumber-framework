@@ -23,7 +23,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import utils.ConfigReader;
 import utils.ExtentManager;
 import utils.ExtentTestManager;
-
+// adding this line as part of version control practice
 public class Hooks {
 	
 	private TestContext context;
